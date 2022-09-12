@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Ink-Publication/static/css/main.74e172a0.css",
-    "main.js": "/Ink-Publication/static/js/main.510241a2.js",
+    "main.css": "/Ink-Publication/static/css/main.734cc486.css",
+    "main.js": "/Ink-Publication/static/js/main.e0ad65ac.js",
     "static/media/3.png": "/Ink-Publication/static/media/3.2bbac140b64502ba6303.png",
     "static/media/HeaderImg.png": "/Ink-Publication/static/media/HeaderImg.4c3c79e5762ff22f79f7.png",
     "static/media/one.jpeg": "/Ink-Publication/static/media/one.06e65b21903299e8bf3b.jpeg",
     "static/media/3.jpeg": "/Ink-Publication/static/media/3.b386171949fe0a734e33.jpeg",
     "static/media/payment.jpeg": "/Ink-Publication/static/media/payment.684cbe3e6770bfe39a65.jpeg",
     "index.html": "/Ink-Publication/index.html",
-    "main.74e172a0.css.map": "/Ink-Publication/static/css/main.74e172a0.css.map",
-    "main.510241a2.js.map": "/Ink-Publication/static/js/main.510241a2.js.map"
+    "main.734cc486.css.map": "/Ink-Publication/static/css/main.734cc486.css.map",
+    "main.e0ad65ac.js.map": "/Ink-Publication/static/js/main.e0ad65ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.74e172a0.css",
-    "static/js/main.510241a2.js"
+    "static/css/main.734cc486.css",
+    "static/js/main.e0ad65ac.js"
   ]
 }
