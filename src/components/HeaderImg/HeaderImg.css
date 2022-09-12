@@ -1,0 +1,15 @@
+.box {
+  background-image: url('../images/HeaderImg.png');
+  height: 600px;
+  /* background-size: cover; */
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 720px) {
+  .box {
+    background-position: 8%;
+    height: 300px;
+  }
+}

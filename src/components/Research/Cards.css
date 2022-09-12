@@ -1,0 +1,33 @@
+.card-image {
+  width: 680px;
+  height: 580px;
+  overflow: hidden;
+}
+
+.cards {
+  overflow: hidden;
+  margin: 30px;
+}
+
+.card-title {
+  color: #5b5b5b;
+  font-family: 'Roboto', sans-serif;
+  font-size: 57px;
+}
+
+@media only screen and (max-width: 720px) {
+  .card-image {
+    width: 280px;
+    height: 280px;
+    overflow: hidden;
+  }
+  .cards {
+    overflow: hidden;
+    margin: 15px;
+  }
+  .card-title {
+    color: #5b5b5b;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+  }
+}

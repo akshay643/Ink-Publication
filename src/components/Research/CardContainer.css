@@ -1,0 +1,41 @@
+.Card-Container {
+  background-color: white;
+}
+
+.card-container-heading  {
+  font-family: 'Roboto', sans-serif;
+  font-size: 80px;
+  color: #5b5b5b;
+}
+
+.card-container-heading-2 {
+  font-size: 40px;
+  font-size: 100px;
+  color: #e47373;
+
+  font-family: 'BlackJack', sans-serif;
+}
+
+.card-main-container {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+
+.card-main-container::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+@media only screen and (max-width: 720px) {
+  .card-container-heading  {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #5b5b5b;
+  }
+  .card-container-heading-2 {
+    font-size: 40px;
+
+    color: #e47373;
+
+    font-family: 'BlackJack', sans-serif;
+  }
+}

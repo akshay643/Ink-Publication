@@ -1,0 +1,36 @@
+.About {
+  background-color: #e47373;
+  width: 60%;
+}
+
+.About-heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 80px;
+}
+
+.About-heading-2 {
+  font-size: 40px;
+  font-size: 100px;
+
+  font-family: 'BlackJack', sans-serif;
+}
+
+.main-about {
+  background-color: #e47373;
+}
+
+@media only screen and (max-width: 720px) {
+  .About-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+  }
+  .About-heading-2 {
+    font-size: 40px;
+    font-family: 'BlackJack', sans-serif;
+  }
+  .About {
+    background-color: #e47373;
+    width: 100%;
+    text-align: center;
+  }
+}

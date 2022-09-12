@@ -1,0 +1,14 @@
+.footer {
+  background-color: #e47373;
+  height: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 90px;
+  font-weight: 500;
+  color: white;
+}
+
+ul li {
+  list-style: none;
+}

@@ -1,0 +1,60 @@
+.counter-container {
+  background-color: #e9e9e9;
+}
+
+.counter-heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 80px;
+}
+
+.counter-heading-2 {
+  font-size: 40px;
+  font-size: 100px;
+  color: #e47373;
+  font-family: 'BlackJack', sans-serif;
+}
+
+.counter {
+  position: relative;
+  font-size: 124px;
+}
+.count::after {
+  content: '+';
+  position: absolute;
+}
+
+.count-heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 74px;
+}
+
+.count {
+  font-size: 124px;
+  font-weight: 800;
+  color: #5b5b5b;
+}
+
+@media only screen and (max-width: 720px) {
+  .counter-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+  }
+
+  .counter-heading-2 {
+    font-size: 40px;
+
+    color: #e47373;
+    font-family: 'BlackJack', sans-serif;
+  }
+  .count {
+    font-size: 80px;
+    font-weight: 800;
+    color: #5b5b5b;
+  }
+
+  .count-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 54px;
+    margin-top: -10px;
+  }
+}

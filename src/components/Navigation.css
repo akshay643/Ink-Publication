@@ -1,0 +1,7 @@
+.navbar-brand {
+  font-family: 'BlackJack', sans-serif;
+}
+
+.menu-item:hover {
+  color: #e47373;
+}

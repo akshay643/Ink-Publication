@@ -1,0 +1,20 @@
+.contact-form {
+  background-color: #5b5b5b;
+  color: white;
+}
+
+.heading-1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.heading-2 {
+  font-family: 'BlackJack', sans-serif;
+}
+
+.social {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+@media only screen and (max-width: 720px) {
+}
